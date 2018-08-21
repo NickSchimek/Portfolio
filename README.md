@@ -25,5 +25,5 @@ Fix form format
 
 A CSS rule defined in application.css was preventing the form to display correctly.
 Removed display rule in applicaation.css and applied bootstrap form-control class 
-to the form inputs as bootstrap was available, but not being used on that form.
+to the form inputs for a responsive UI.
 ```
