@@ -16,4 +16,14 @@ is compliant. The old color #777 was failing at 4.5 and the new color #222 is
 passing at 16.0.
 ```
 
-## AV open source contributions
+## AgileVenturs charity contributions (open source)
+### Nov. 30, 2017 - My first contribution for [Harrow Network](https://www.harrowcn.org.uk/) non-profit organization.
+repository: [AgileVentures/LocalSupport](https://github.com/AgileVentures/LocalSupport)  
+Link to [PR #516](https://github.com/AgileVentures/LocalSupport/pull/516)
+```
+Fix form format
+
+A CSS rule defined in application.css was preventing the form to display correctly.
+Removed display rule in applicaation.css and applied bootstrap form-control class 
+to the form inputs as bootstrap was available, but not being used on that form.
+```
